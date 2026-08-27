@@ -6,7 +6,7 @@ UGV-DTU Software Department Final Round
 
 What I did
 
-1. Installed Git on Windows.
+1\. Installed Git on Windows.
 
 2\. Configured my Git username and email.
 
