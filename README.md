@@ -50,7 +50,7 @@ This project implements a lane detection system using Python, OpenCV, and NumPy.
 
 The program detects the lane boundaries on road images and marks them with cyan lines. The area between the detected lane boundaries is highlighted to represent the drivable area.
 
-Features
+ Features
 
 1. Detects yellow lane markings.
 2. Detects white lane markings.
@@ -60,11 +60,37 @@ Features
 6. Processes road images using OpenCV.
 7. Saves the processed results automatically.
 
-Requirements
+ Requirements
 
 1. Python 3
 2. OpenCV
 3. NumPy
+
+
+
+UGV-DTU Software Department Final Round
+
+TASK 3 - OBSTACLE AND POTHOLE DETECTION
+
+Description
+
+This task detects obstacles and potholes using Python, OpenCV, and NumPy.
+
+Features
+
+1\. Detects white potholes.
+2\. Detects colored obstacles.
+3\. Draws rectangular bounding boxes.
+4\. Displays pixel coordinates.
+5\. Displays total pothole and obstacle counts.
+6\. Saves processed images in the output folder.
+
+Requirements
+
+1\. Python 3
+2\. OpenCV
+3\. NumPy
+
 
 
 
