@@ -90,10 +90,6 @@ Requirements
 1. Python 3
 2. OpenCV
 3. NumPy
-<<<<<<< HEAD
-=======
-
->>>>>>> 00b40fc (Add Task 1 documentation)
 
 
 
