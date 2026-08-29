@@ -1,0 +1,12 @@
+Hello, this is my first UGV-DTU software repository. 
+
+UGV-DTU Software Round 3
+
+Task 1 - GitHub Setup and Command Line
+
+Name: Lakshay Prakash
+Roll Number: 26/B5/033
+
+This is my Task 1 submission.
+I created a GitHub repository and learned basic Git and command line operations such 
+as creating files and folders, renaming, deleting, adding, committing, pushing, pulling, and cloning.
