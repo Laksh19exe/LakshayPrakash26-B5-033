@@ -50,22 +50,21 @@ This project implements a lane detection system using Python, OpenCV, and NumPy.
 
 The program detects the lane boundaries on road images and marks them with cyan lines. The area between the detected lane boundaries is highlighted to represent the drivable area.
 
- Features
+Features
 
-1\. Detects yellow lane markings.
-2\. Detects white lane markings.
-3\. Tracks the lane boundaries along the road.
-4\. Smooths small detection noise and reduces zigzagging.
-5\. Highlights the drivable area between the detected lanes.
-6\. Processes road images using OpenCV.
-7\. Saves the processed results automatically.
+1. Detects yellow lane markings.
+2. Detects white lane markings.
+3. Tracks the lane boundaries along the road.
+4. Smooths small detection noise and reduces zigzagging.
+5. Highlights the drivable area between the detected lanes.
+6. Processes road images using OpenCV.
+7. Saves the processed results automatically.
 
- Requirements
+Requirements
 
-1\. Python 3
-2\. OpenCV
-3\. NumPy
-
+1. Python 3
+2. OpenCV
+3. NumPy
 
 
 
