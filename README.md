@@ -78,18 +78,18 @@ This task detects obstacles and potholes using Python, OpenCV, and NumPy.
 
 Features
 
-1\. Detects white potholes.
-2\. Detects colored obstacles.
-3\. Draws rectangular bounding boxes.
-4\. Displays pixel coordinates.
-5\. Displays total pothole and obstacle counts.
-6\. Saves processed images in the output folder.
+1. Detects white potholes.
+2. Detects colored obstacles.
+3. Draws rectangular bounding boxes.
+4. Displays pixel coordinates.
+5. Displays total pothole and obstacle counts.
+6. Saves processed images in the output folder.
 
 Requirements
 
-1\. Python 3
-2\. OpenCV
-3\. NumPy
+1. Python 3
+2. OpenCV
+3. NumPy
 
 
 
